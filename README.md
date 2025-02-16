@@ -1,5 +1,8 @@
 ## This is a step by step process of how to get your LLMs running on an Android Phone
 
+This is related to my youtube video
+https://youtu.be/DRkHAw58irI
+
 
 1.	Install Termux from Google Play
 2.	Once inside termux, run the following
