@@ -53,5 +53,5 @@ required number of times to come back to the build folder.
 ./bin/llama-server –model models/3B/small.gguf
 ```
 17.	Go to localhost:8080 for testing the model
-a.	Go to a browser and type 127.0.0.1:8080
-b.	Play with your model
+(a).	Go to a browser and type 127.0.0.1:8080
+(b).	Play with your model
